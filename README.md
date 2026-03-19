@@ -192,7 +192,9 @@ The monitoring dashboard includes:
 ## 👤 Author
 
 **Muneeb Ahmed**
+
 LinkedIn: https://www.linkedin.com/in/muneebahmed18/ 
+
 MS Data Science Student
 
 ---
