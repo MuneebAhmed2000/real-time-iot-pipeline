@@ -89,7 +89,7 @@ The system tracks key performance indicators:
 ### 1. Clone the Repository
 
 ```
-git clone <your-repo-url>
+git clone <https://github.com/MuneebAhmed2000/real-time-iot-pipeline>
 cd real_time_iot_pipeline
 ```
 
